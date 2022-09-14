@@ -1,0 +1,18 @@
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\obj\Debug\ParquesDLL.csproj.AssemblyReference.cache
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\obj\Debug\ParquesDLL.csproj.CoreCompileInputs.cache
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\bin\Debug\ParquesDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\bin\Debug\ParquesDLL.pdb
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\bin\Debug\CarroDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\bin\Debug\CarroDLL.pdb
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\obj\Debug\ParquesDLL.csproj.CopyComplete
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\obj\Debug\ParquesDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\ParquesDLL\obj\Debug\ParquesDLL.pdb
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\bin\Debug\ParquesDLL.dll
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\bin\Debug\ParquesDLL.pdb
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\bin\Debug\CarroDLL.dll
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\bin\Debug\CarroDLL.pdb
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\obj\Debug\ParquesDLL.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\obj\Debug\ParquesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\obj\Debug\ParquesDLL.csproj.CopyComplete
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\obj\Debug\ParquesDLL.dll
+C:\Users\Miguel\Desktop\DLL\ParquesDLL\obj\Debug\ParquesDLL.pdb

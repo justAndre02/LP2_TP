@@ -1,0 +1,6 @@
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\CarroDLL\bin\Debug\CarroDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\CarroDLL\bin\Debug\CarroDLL.pdb
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\CarroDLL\obj\Debug\CarroDLL.csproj.AssemblyReference.cache
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\CarroDLL\obj\Debug\CarroDLL.csproj.CoreCompileInputs.cache
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\CarroDLL\obj\Debug\CarroDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\CarroDLL\obj\Debug\CarroDLL.pdb

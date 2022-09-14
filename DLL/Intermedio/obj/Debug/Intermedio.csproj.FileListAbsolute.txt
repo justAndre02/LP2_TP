@@ -1,0 +1,22 @@
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\bin\Debug\Intermedio.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\bin\Debug\CarroDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\bin\Debug\ParquesDLL.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\bin\Debug\CarroDLL.pdb
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\bin\Debug\ParquesDLL.pdb
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\obj\Debug\Intermedio.csproj.AssemblyReference.cache
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\obj\Debug\Intermedio.csproj.CoreCompileInputs.cache
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\obj\Debug\Intermedio.csproj.CopyComplete
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\obj\Debug\Intermedio.dll
+C:\Users\35193\OneDrive\Ambiente de Trabalho\DLL\Intermedio\obj\Debug\Intermedio.pdb
+C:\Users\Miguel\Desktop\DLL\Intermedio\bin\Debug\Intermedio.dll
+C:\Users\Miguel\Desktop\DLL\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\Miguel\Desktop\DLL\Intermedio\bin\Debug\CarroDLL.dll
+C:\Users\Miguel\Desktop\DLL\Intermedio\bin\Debug\ParquesDLL.dll
+C:\Users\Miguel\Desktop\DLL\Intermedio\bin\Debug\CarroDLL.pdb
+C:\Users\Miguel\Desktop\DLL\Intermedio\bin\Debug\ParquesDLL.pdb
+C:\Users\Miguel\Desktop\DLL\Intermedio\obj\Debug\Intermedio.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\DLL\Intermedio\obj\Debug\Intermedio.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\DLL\Intermedio\obj\Debug\Intermedio.csproj.CopyComplete
+C:\Users\Miguel\Desktop\DLL\Intermedio\obj\Debug\Intermedio.dll
+C:\Users\Miguel\Desktop\DLL\Intermedio\obj\Debug\Intermedio.pdb
